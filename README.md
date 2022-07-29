@@ -12,7 +12,7 @@ https://drive.google.com/file/d/12lGLaslYanPiUrMC63FQ3_QKaRoJ3_mG/view?usp=shari
 
 # Screenshot
 
-> This is the first [interface](Live/)
+> This is the first [interface](https://loltolo-lesapiti.github.io/capstone/)
 
 ## Built with
 
@@ -54,7 +54,7 @@ npx eslint ."
 
 ## Link to the live page
 
-> Feel free to check the [conference capstone-link](Live).
+> Feel free to check the [Taas Homes-link](https://loltolo-lesapiti.github.io/capstone/).
 
 ## Authors
 
