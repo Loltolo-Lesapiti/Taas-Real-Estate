@@ -1,3 +1,131 @@
-.styles__footer__fh{height:100%}.styles__footer__footer{font-weight:400;font-size:15px}.styles__footer__footer li,.styles__footer__footer ul{padding:0;margin:0;list-style:none}.styles__footer__footer li.tldSelector .arrowDown{color:#20262e}.styles__footer__footer li.tldSelector .selectedLabel{line-height:inherit}.styles__footer__footer .styles__footer__separator{border:none;height:1px;width:100%}.styles__footer__navigation{max-width:1024px;margin:0 auto;padding-top:35px}.styles__footer__fullWidthNavigation{max-width:1280px}.styles__footer__menuLinks{font-size:15px;line-height:24px}.styles__footer__socialShareIcon a,.styles__footer__socialShareIcon span{display:block}.styles__footer__copyright,.styles__footer__heading{max-width:1024px}.styles__footer__fullWidthHeading{max-width:1280px}@media (max-width:766px){.styles__footer__fullWidthHeading{text-align:center}}.styles__footer__browseLinks,.styles__footer__copyright{line-height:24px}.styles__footer__browseLinks a,.styles__footer__copyright a{text-decoration:underline;color:#404040}.styles__footer__browseLinks .styles__footer__sepafter:not(:last-child):after{content:", "}.styles__footer__sep.sep{background:transparent;border-right:1px solid #c2c2c2}.styles__footer__footerNarrow .styles__footer__footerHelpLinks{margin:24px auto;font-size:12px}.styles__footer__footerNarrow .styles__footer__footerHelpLinks ul{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}.styles__footer__footerNarrow+.styles__footer__copyright p{font-size:12px}.styles__footer__footerTransparent{background-color:none;color:#404040}.styles__footer__footerLight{background-color:#fff;color:#404040}.styles__footer__footerLight p,.styles__footer__footerLight span{color:#404040;margin:0}.styles__footer__footerLight .styles__footer__browseLinks a,.styles__footer__footerLight .styles__footer__legalLinks a,.styles__footer__footerLight .styles__footer__menuLinks a{color:#404040;cursor:pointer}.styles__footer__footerLight .styles__footer__browseLinks a:active,.styles__footer__footerLight .styles__footer__browseLinks a:hover,.styles__footer__footerLight .styles__footer__browseLinks a:link,.styles__footer__footerLight .styles__footer__browseLinks a:visited,.styles__footer__footerLight .styles__footer__legalLinks a:active,.styles__footer__footerLight .styles__footer__legalLinks a:hover,.styles__footer__footerLight .styles__footer__legalLinks a:link,.styles__footer__footerLight .styles__footer__legalLinks a:visited,.styles__footer__footerLight .styles__footer__menuLinks a:active,.styles__footer__footerLight .styles__footer__menuLinks a:hover,.styles__footer__footerLight .styles__footer__menuLinks a:link,.styles__footer__footerLight .styles__footer__menuLinks a:visited{color:#404040}.styles__footer__footerLight .styles__footer__separator{border-top:1px solid #dee0e3}.styles__footer__footerLight .styles__footer__footerLogo path{fill:#0caa41}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__android-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-leaf,.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-logo{fill:#858c94}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__facebook-svg ellipse,.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__glassdoor-svg ellipse,.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__twitter-svg ellipse{fill:#dee0e3}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__facebook-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__glassdoor-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__twitter-svg path{fill:#505863}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__youtube-svg #Oval{fill:#dee0e3}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__youtube-svg path{fill:#505863}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__instagram-svg circle{fill:#dee0e3}.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__instagram-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-leaf,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-logo{fill:#505863}.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__facebook-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__glassdoor-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__instagram-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__twitter-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__youtube-svg path{fill:#fff}.styles__footer__footerDark{background:#404040;color:#fff}.styles__footer__footerDark p,.styles__footer__footerDark span{color:#fff;margin:0}.styles__footer__footerDark .styles__footer__navigation .dropdownOptions{background:#404040}.styles__footer__footerDark .styles__footer__browseLinks a,.styles__footer__footerDark .styles__footer__legalLinks a,.styles__footer__footerDark .styles__footer__menuLinks a{color:#fff;cursor:pointer}.styles__footer__footerDark .styles__footer__browseLinks a:active,.styles__footer__footerDark .styles__footer__browseLinks a:hover,.styles__footer__footerDark .styles__footer__browseLinks a:link,.styles__footer__footerDark .styles__footer__browseLinks a:visited,.styles__footer__footerDark .styles__footer__legalLinks a:active,.styles__footer__footerDark .styles__footer__legalLinks a:hover,.styles__footer__footerDark .styles__footer__legalLinks a:link,.styles__footer__footerDark .styles__footer__legalLinks a:visited,.styles__footer__footerDark .styles__footer__menuLinks a:active,.styles__footer__footerDark .styles__footer__menuLinks a:hover,.styles__footer__footerDark .styles__footer__menuLinks a:link,.styles__footer__footerDark .styles__footer__menuLinks a:visited{color:#fff}.styles__footer__footerDark .styles__footer__separator{border-top:1px solid #7f7f7f}.styles__footer__footerDark .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-leaf,.styles__footer__footerDark .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-logo{fill:#fff}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-leaf,.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-logo{fill:#505863}.styles__footer__footerDark .styles__footer__tldSelector span.styles__footer__dropdownOptionLabel:hover{color:#404040}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__android-svg path,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__android-svg path{fill:#a4c639}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__glassdoor-svg ellipse,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__glassdoor-svg ellipse{fill:#0caa41}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__facebook-svg ellipse,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__facebook-svg ellipse{fill:#0077fb}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__twitter-svg ellipse,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__twitter-svg ellipse{fill:#1e90ff}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__youtube-svg #Oval,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__youtube-svg #Oval{fill:red}.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__instagram-svg circle,.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__instagram-svg circle{fill:#e1306c}.styles__footer__ccpaModalText p{color:#404040}@media (max-width:766px){.styles__footer__blogFooter{max-height:500px;-webkit-box-orient:vertical;-webkit-box-direction:normal;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap}}
+.styles__footer__fh { height: 100%; }
+.styles__footer__footer { font-weight: 400; font-size: 15px; }
 
-/*# sourceMappingURL=https://artifactory.qa.jagundi.com/artifactory/npm-internal/gd-garnish/-/gd-garnish-1.19.12.tgz!/package/public/gkc/static/css/gd-footer.bundle.0c586.css.map*/
+.styles__footer__footer li,
+.styles__footer__footer ul { padding: 0; margin: 0; list-style: none; }
+.styles__footer__footer li.tldSelector .arrowDown { color: #20262e; }
+.styles__footer__footer li.tldSelector .selectedLabel { line-height: inherit; }
+.styles__footer__footer .styles__footer__separator { border: none; height: 1px; width: 100%; }
+.styles__footer__navigation { max-width: 1024px; margin: 0 auto; padding-top: 35px; }
+.styles__footer__fullWidthNavigation { max-width: 1280px; }
+.styles__footer__menuLinks { font-size: 15px; line-height: 24px; }
+
+.styles__footer__socialShareIcon a,
+.styles__footer__socialShareIcon span { display: block; }
+
+.styles__footer__copyright,
+.styles__footer__heading { max-width: 1024px; }
+.styles__footer__fullWidthHeading { max-width: 1280px; }
+
+@media (max-width: 766px) { .styles__footer__fullWidthHeading { text-align: center; } }
+
+.styles__footer__browseLinks,
+.styles__footer__copyright { line-height: 24px; }
+
+.styles__footer__browseLinks a,
+.styles__footer__copyright a { text-decoration: underline; color: #404040; }
+.styles__footer__browseLinks .styles__footer__sepafter:not(:last-child)::after { content: ", "; }
+.styles__footer__sep.sep { background: transparent; border-right: 1px solid #c2c2c2; }
+.styles__footer__footerNarrow .styles__footer__footerHelpLinks { margin: 24px auto; font-size: 12px; }
+.styles__footer__footerNarrow .styles__footer__footerHelpLinks ul { display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-justify-content: space-around; -ms-flex-pack: distribute; justify-content: space-around; }
+.styles__footer__footerNarrow + .styles__footer__copyright p { font-size: 12px; }
+.styles__footer__footerTransparent { background-color: none; color: #404040; }
+.styles__footer__footerLight { background-color: #fff; color: #404040; }
+
+.styles__footer__footerLight p,
+.styles__footer__footerLight span { color: #404040; margin: 0; }
+
+.styles__footer__footerLight .styles__footer__browseLinks a,
+.styles__footer__footerLight .styles__footer__legalLinks a,
+.styles__footer__footerLight .styles__footer__menuLinks a { color: #404040; cursor: pointer; }
+
+.styles__footer__footerLight .styles__footer__browseLinks a:active,
+.styles__footer__footerLight .styles__footer__browseLinks a:hover,
+.styles__footer__footerLight .styles__footer__browseLinks a:link,
+.styles__footer__footerLight .styles__footer__browseLinks a:visited,
+.styles__footer__footerLight .styles__footer__legalLinks a:active,
+.styles__footer__footerLight .styles__footer__legalLinks a:hover,
+.styles__footer__footerLight .styles__footer__legalLinks a:link,
+.styles__footer__footerLight .styles__footer__legalLinks a:visited,
+.styles__footer__footerLight .styles__footer__menuLinks a:active,
+.styles__footer__footerLight .styles__footer__menuLinks a:hover,
+.styles__footer__footerLight .styles__footer__menuLinks a:link,
+.styles__footer__footerLight .styles__footer__menuLinks a:visited { color: #404040; }
+.styles__footer__footerLight .styles__footer__separator { border-top: 1px solid #dee0e3; }
+.styles__footer__footerLight .styles__footer__footerLogo path { fill: #0caa41; }
+
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__android-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-leaf,
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-logo { fill: #858c94; }
+
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__facebook-svg ellipse,
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__glassdoor-svg ellipse,
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__twitter-svg ellipse { fill: #dee0e3; }
+
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__facebook-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__glassdoor-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__twitter-svg path { fill: #505863; }
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__youtube-svg #Oval { fill: #dee0e3; }
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__youtube-svg path { fill: #505863; }
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__instagram-svg circle { fill: #dee0e3; }
+
+.styles__footer__footerLight .styles__footer__socialShareIcon .styles__footer__instagram-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-leaf,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-logo { fill: #505863; }
+
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__facebook-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__glassdoor-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__instagram-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__twitter-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__youtube-svg path { fill: #fff; }
+.styles__footer__footerDark { background: #404040; color: #fff; }
+
+.styles__footer__footerDark p,
+.styles__footer__footerDark span { color: #fff; margin: 0; }
+.styles__footer__footerDark .styles__footer__navigation .dropdownOptions { background: #404040; }
+
+.styles__footer__footerDark .styles__footer__browseLinks a,
+.styles__footer__footerDark .styles__footer__legalLinks a,
+.styles__footer__footerDark .styles__footer__menuLinks a { color: #fff; cursor: pointer; }
+
+.styles__footer__footerDark .styles__footer__browseLinks a:active,
+.styles__footer__footerDark .styles__footer__browseLinks a:hover,
+.styles__footer__footerDark .styles__footer__browseLinks a:link,
+.styles__footer__footerDark .styles__footer__browseLinks a:visited,
+.styles__footer__footerDark .styles__footer__legalLinks a:active,
+.styles__footer__footerDark .styles__footer__legalLinks a:hover,
+.styles__footer__footerDark .styles__footer__legalLinks a:link,
+.styles__footer__footerDark .styles__footer__legalLinks a:visited,
+.styles__footer__footerDark .styles__footer__menuLinks a:active,
+.styles__footer__footerDark .styles__footer__menuLinks a:hover,
+.styles__footer__footerDark .styles__footer__menuLinks a:link,
+.styles__footer__footerDark .styles__footer__menuLinks a:visited { color: #fff; }
+.styles__footer__footerDark .styles__footer__separator { border-top: 1px solid #7f7f7f; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-leaf,
+.styles__footer__footerDark .styles__footer__socialShareIcon .styles__footer__apple-svg #apple-logo { fill: #fff; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-leaf,
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__apple-svg #apple-logo { fill: #505863; }
+.styles__footer__footerDark .styles__footer__tldSelector span.styles__footer__dropdownOptionLabel:hover { color: #404040; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__android-svg path,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__android-svg path { fill: #a4c639; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__glassdoor-svg ellipse,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__glassdoor-svg ellipse { fill: #0caa41; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__facebook-svg ellipse,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__facebook-svg ellipse { fill: #0077fb; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__twitter-svg ellipse,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__twitter-svg ellipse { fill: #1e90ff; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__youtube-svg #Oval,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__youtube-svg #Oval { fill: red; }
+
+.styles__footer__footerDark .styles__footer__socialShareIcon:hover .styles__footer__instagram-svg circle,
+.styles__footer__footerLight .styles__footer__socialShareIcon:hover .styles__footer__instagram-svg circle { fill: #e1306c; }
+.styles__footer__ccpaModalText p { color: #404040; }
+
+@media (max-width: 766px) { .styles__footer__blogFooter { max-height: 500px; -webkit-box-orient: vertical; -webkit-box-direction: normal; -webkit-flex-direction: column; -ms-flex-direction: column; flex-direction: column; -webkit-flex-wrap: wrap; -ms-flex-wrap: wrap; flex-wrap: wrap; } }

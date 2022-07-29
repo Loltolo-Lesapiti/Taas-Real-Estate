@@ -14,10 +14,12 @@ body {
   padding: 0;
   margin: 0;
 }
-a{
+
+a {
   text-decoration: none;
 }
-.topNav{
+
+.topNav {
   display: none;
   width: 100%;
 }
@@ -41,19 +43,15 @@ a{
 .menu_desktop {
   display: none;
 }
-.topNav{
+
+.topNav {
   height: 30px;
 }
-.topNav a{
+
+.topNav a {
   text-decoration: none;
   color: #fff;
   margin-top: 5px;
-  
-}
-.topNav a i{
-  text-decoration: none;
-  color: #fff;
-  
 }
 
 /* ---Formating the mobile-humberger--- */
@@ -64,7 +62,7 @@ a{
   z-index: 1;
   left: 0;
   top: 0;
-  background-color: rgba(50, 50,50, 0.6);
+  background-color: rgba(50, 50, 50, 0.6);
   overflow-x: hidden;
   overflow-y: hidden;
   transition: 0.5s;
@@ -102,11 +100,13 @@ a{
   text-decoration: none;
   font-size: 30px;
 }
-.logo{
+
+.logo {
   display: none;
 }
-/* Home section*/
-.introduction{
+
+/* Home section */
+.introduction {
   padding: 20px 0;
   background-image: url("../images/bg1.jpg");
   background-size: cover;
@@ -115,89 +115,99 @@ a{
   opacity: 0.9;
   z-index: -1;
 }
-.introduction .content{
+
+.introduction .content {
   display: flex;
   flex-direction: column;
   gap: 5px;
   margin: 10% 10%;
   z-index: 2;
 }
-.introduction .content h5{
+
+.introduction .content h5 {
   font-weight: 500;
   color: #f55114;
   line-height: 2rem;
   font-size: 30px;
-  
 }
-.introduction .content h1{
+
+.introduction .content h1 {
   font-weight: 900;
   font-size: 50px;
   line-height: 4rem;
   color: rgb(128, 5, 5);
   text-transform: uppercase;
 }
-.content h2{
+
+.content h2 {
   font-weight: 600;
   font-size: 25px;
   text-transform: uppercase;
 }
-.introduction .content h3{
+
+.introduction .content h3 {
   font-weight: 200;
   font-size: 18px;
   margin-top: 0;
 }
-.introduction .content p{
+
+.introduction .content p {
   border: 2px solid white;
   width: 100%;
   padding: 10px;
   font-size: 20px;
 }
 
-.featured-blogs h2{
+.featured-blogs h2 {
   font-weight: 600;
   font-size: 25px;
   text-align: center;
   margin-bottom: 0;
 }
-.featured-blogs{
+
+.featured-blogs {
   margin: 50px;
 }
-.featured-blogs hr{
+
+.featured-blogs hr {
   margin-left: 40%;
 }
-u{
+
+u {
   font-weight: bold;
   color: red;
- 
 }
-/** Blogs desktop*/
- .grid{
+
+/** Blogs desktop */
+.grid {
   display: grid;
   grid-template-columns: auto;
-  margin:0;
+  margin: 0;
   gap: 10px;
   margin: 0 5%;
- }
- .card {
+}
+
+.card {
   display: flex;
   gap: 20px;
   flex-direction: row;
-
 }
+
 .cardImage {
   width: 120px;
   height: auto;
 }
-.cardBody{
-display: flex;
-flex-direction: column;
-gap: 0;
+
+.cardBody {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
 }
+
 .cardTitle {
   font-weight: 600;
   font-size: 24px;
   line-height: 28px;
-  
 }
 
 .cardText {
@@ -206,15 +216,16 @@ gap: 0;
   line-height: 20px;
   margin: 0;
 }
-.author{
-font-weight: 400;
-font-size: 20px;
-font-style: italic;
-line-height: 28px;
-color: #ec5242;
+
+.author {
+  font-weight: 400;
+  font-size: 20px;
+  font-style: italic;
+  line-height: 28px;
+  color: #ec5242;
 }
 
-/* Updades mobile*/
+/* Updades mobile */
 .newsUpdate {
   display: flex;
   flex-direction: column;
@@ -226,9 +237,10 @@ color: #ec5242;
 }
 
 .sectionHeader {
- text-align: center;
-  margin-bottom: 0; 
+  text-align: center;
+  margin-bottom: 0;
 }
+
 .update ul {
   display: flex;
   flex-direction: row;
@@ -248,13 +260,13 @@ color: #ec5242;
   border-radius: 5px;
   border: 2px solid #d3d3d3;
 }
-hr{
+
+hr {
   width: 100px;
   background: #f55114;
   padding: 0.5px;
   margin-top: 0;
   border: none;
-  
 }
 
 .update ul :first-child {
@@ -286,93 +298,104 @@ hr{
 
 .updateBtn:hover {
   color: #ec5242;
-  background:#d3d3d3;
+  background: #d3d3d3;
   border: 2px solid #ec5242;
 }
 
-.update ul :last-child{
+.update ul :last-child {
   width: 50%;
   text-align: left;
 }
-/* Our parners*/
-.partners{
+
+/* Our parners */
+.partners {
   display: flex;
   flex-direction: column;
   align-items: center;
   background-color: #272a31;
   padding: 20px 0;
 }
-.partners h2{
+
+.partners h2 {
   font-weight: 500;
   line-height: 1.5rem;
   font-size: 25px;
   color: #f7f7f9;
   margin-top: 10px;
 }
-.partners hr{
+
+.partners hr {
   width: 100px;
   color: #f55114;
   padding: 0.8px;
   margin-top: 5px;
-
-
 }
-.partner-logos{
+
+.partner-logos {
   display: flex;
   flex-direction: column;
   align-items: flex-end;
 }
-.logoImage{
+
+.logoImage {
   width: 177px;
   height: 116px;
   margin: 17px 8px;
-  }
-  .imageContainer{
-   margin: 0;
-  }
- .copyright{
+}
+
+.imageContainer {
+  margin: 0;
+}
+
+.copyright {
   display: flex;
   flex: row;
   gap: 5%;
   margin: 10px;
   justify-content: center;
- }
- .show {
+}
+
+.show {
   display: flex;
   margin-left: 5%;
 }
-.show img{
+
+.show img {
   width: 30px;
   height: 50px;
-  
 }
-.show a{
+
+.show a {
   font-weight: 500;
   font-size: 20px;
   padding-top: 5px;
   color: #272a31;
-
 }
-.hide{
+
+.hide {
   display: none;
 }
-.featured-blogs button{
+
+.featured-blogs button {
   width: 100%;
   margin: 3%;
   height: 40px;
   background: color #d3d3d3;
 }
-.featured-blogs button:hover{
+
+.featured-blogs button:hover {
   background-color: #ec5242;
   color: #ffff;
 }
-.copyrightContent h5{
+
+.copyrightContent h5 {
   font-size: 16px;
   margin: 10px;
   width: 50%;
   margin-left: 0;
 }
-.copyrightContent h6{
+
+.copyrightContent h6 {
   margin-top: 0;
   width: 60%;
 }
@@ -387,18 +410,17 @@ hr{
     display: inline;
     margin-left: 5%;
   }
-  .logo img{
+
+  .logo img {
     width: 30px;
     height: auto;
-    
   }
-  .logo a{
+
+  .logo a {
     font-weight: 500;
     font-size: 20px;
     padding-top: 5px;
     color: #272a31;
-    
-
   }
 
   .menu_desktop {
@@ -426,7 +448,8 @@ hr{
     line-height: 20px;
     color: #282828;
   }
-  .topNav{
+
+  .topNav {
     display: flex;
     flex-direction: row;
     background-color: #565656;
@@ -434,23 +457,26 @@ hr{
     width: 100%;
     gap: 20px;
   }
-  .signup{
+
+  .signup {
     margin-right: 50px;
   }
-  .introduction .content{
+
+  .introduction .content {
     width: 50%;
   }
-  /* Updates*/
+
+  /* Updates */
   .sectionHeader {
     text-align: center;
     color: #ffff;
   }
-  .update-container{
+
+  .update-container {
     display: flex;
     flex-direction: row;
     gap: 10px;
     padding: 10px 0;
-    
   }
 
   .update ul {
@@ -464,8 +490,7 @@ hr{
     text-align: center;
   }
 
-  
-  ul :last-child{
+  ul :last-child {
     align-self: center;
     width: 70px;
   }
@@ -495,65 +520,73 @@ hr{
     width: 100%;
     text-align: center;
   }
-  /** Blogs desktop*/
-  .featured-blogs hr{
-    margin-left: 45%;
 
+  /** Blogs desktop */
+  .featured-blogs hr {
+    margin-left: 45%;
   }
-   .grid{
+
+  .grid {
     display: grid;
     grid-template-columns: auto auto;
     margin: 5% 5%;
     gap: 20px;
-   }
-   .card {
+  }
+
+  .card {
     display: flex;
     gap: 20px;
     flex-direction: row;
   }
+
   .cardImage {
     width: 120px;
     height: auto;
-}
-.cardBody{
-  display: flex;
-  flex-direction: column;
-  gap: 0;
-}
-.cardTitle {
+  }
+
+  .cardBody {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+
+  .cardTitle {
     font-weight: 600;
     font-size: 24px;
-    line-height: 28px; 
-}
+    line-height: 28px;
+  }
 
-.cardText {
+  .cardText {
     font-weight: 400;
     font-size: 12px;
     line-height: 20px;
     margin: 0;
-}
-.author{
-  font-weight: 400;
-  font-size: 20px;
-  font-style: italic;
-  line-height: 28px;
-  color: #ec5242;
-}
+  }
 
-  /* Patners*/
-  .partner-logos{
+  .author {
+    font-weight: 400;
+    font-size: 20px;
+    font-style: italic;
+    line-height: 28px;
+    color: #ec5242;
+  }
+
+  /* Patners */
+  .partner-logos {
     display: flex;
     flex-direction: row;
     justify-content: space-between;
   }
-  .partners h2{
+
+  .partners h2 {
     font-weight: 600;
-    color:#ffff;
+    color: #ffff;
     font-size: 25px;
     text-align: center;
     margin-bottom: 0;
   }
-  .featured-blogs button{
+
+  .featured-blogs button {
     display: none;
   }
 }
