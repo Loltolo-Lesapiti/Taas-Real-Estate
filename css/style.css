@@ -453,7 +453,6 @@ a {
 
   .introduction .content {
     display: flex;
-    flex: column;
     margin: 3% 25%;
     gap: 10px;
   }
