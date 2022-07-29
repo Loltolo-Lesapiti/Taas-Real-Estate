@@ -1,4 +1,4 @@
-https://www.loom.com/share/9d236f06b97e47069128f1fbdea5ec72
+https://drive.google.com/file/d/12lGLaslYanPiUrMC63FQ3_QKaRoJ3_mG/view?usp=sharing
 
 #### Original design idea by **Cindy Shin in Behance**, in association with the Creative Commons [license](./MIT.md) of the design.
 
