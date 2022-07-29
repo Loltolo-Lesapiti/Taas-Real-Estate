@@ -195,12 +195,16 @@ a {
 }
 
 .logo-in-section {
-  margin: 0 20%;
+  margin: 0 40%;
+  background: #ffff;
+  border: 2px solid #ffff;
+  width: 359px;
 }
 
 .logo-in-section img {
   width: 122px;
   height: auto;
+  margin: 0;
 }
 
 .logo-in-section a {
