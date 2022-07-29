@@ -61,7 +61,7 @@ npx eslint ."
 👤 **Petro Loltolo Lesapiti**
 
 - GitHub: [@petrolesapiti](https://github.com/Loltolo-Lesapiti)
-- LinkedIn: [@petrolesapiti](www.linkedin.com/in/silvia-tofana-10b852186)
+- LinkedIn: [@petrolesapiti](https://www.linkedin.com/in/petrolesapitiloltolo/)
 
 ## Collaborators
 

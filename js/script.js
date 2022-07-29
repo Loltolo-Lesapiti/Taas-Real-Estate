@@ -18,8 +18,6 @@ links.forEach((link) => {
   });
 });
 
-// Dynamically adding the featured properties.
-
 const houses = [{
   image: '../images/h1.jpg',
   title: 'Luzury',
