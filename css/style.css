@@ -118,7 +118,7 @@ a {
   display: flex;
   flex-direction: column;
   gap: 5px;
-  margin: 3% 25%;
+  margin: 3% 10%;
   z-index: 2;
 }
 
@@ -142,6 +142,8 @@ a {
   line-height: 4rem;
   color: rgb(128, 5, 5);
   text-transform: uppercase;
+  margin-top: 2px;
+  margin-bottom: 10px;
 }
 
 .content h2 {
@@ -159,7 +161,6 @@ a {
 .introduction .content p {
   border: 2px solid white;
   width: 100%;
-  padding: 10px;
   font-size: 20px;
 }
 
@@ -451,7 +452,10 @@ a {
   }
 
   .introduction .content {
-    width: 50%;
+    display: flex;
+    flex: column;
+    margin: 3% 25%;
+    gap: 10px;
   }
 
   /* Updates */
