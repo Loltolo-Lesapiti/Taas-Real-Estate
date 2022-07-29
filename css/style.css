@@ -107,17 +107,18 @@ a {
   padding: 20px 0;
   background-image: url("../images/bg1.jpg");
   background-size: cover;
-  background-position-x: -312px;
-  background-position-y: 98px;
-  opacity: 0.9;
+  background-repeat: no-repeat;
+  background-blend-mode: multiply;
   z-index: -1;
+  width: 100%;
+  height: 100%;
 }
 
 .introduction .content {
   display: flex;
   flex-direction: column;
   gap: 5px;
-  margin: 10% 10%;
+  margin: 3% 25%;
   z-index: 2;
 }
 
@@ -174,15 +175,11 @@ a {
 }
 
 .featured-blogs hr {
-  margin-left: 40%;
+  width: 100px;
+  border: 1px solid #f55114;
+  margin-top: 5px;
 }
 
-u {
-  font-weight: bold;
-  color: red;
-}
-
-/** Blogs desktop */
 .grid {
   display: grid;
   grid-template-columns: auto;
@@ -264,13 +261,11 @@ u {
   border: 2px solid #d3d3d3;
 }
 
-/* hr {
+.newsUpdate hr {
   width: 100px;
-  background: #f55114;
-  padding: 0.5px;
-  margin-top: 0;
-  border: none;
-} */
+  border: 1px solid #f55114;
+  margin-top: 5px;
+}
 
 .update ul :first-child {
   font-size: 32px;
@@ -307,7 +302,7 @@ u {
 
 .update ul :last-child {
   width: 50%;
-  text-align: left;
+  text-align: center;
 }
 
 /* Our parners */
@@ -329,8 +324,7 @@ u {
 
 .partners hr {
   width: 100px;
-  color: #f55114;
-  padding: 0.8px;
+  border: 1px solid #f55114;
   margin-top: 5px;
 }
 
@@ -341,9 +335,9 @@ u {
 }
 
 .logoImage {
-  width: 177px;
-  height: 116px;
-  margin: 17px 8px;
+  width: 115px;
+  height: 115px;
+  margin: 15px 47px;
 }
 
 .imageContainer {
@@ -483,11 +477,6 @@ u {
     width: 100%;
     text-align: center;
   }
-
-  /* ul :last-child {
-    align-self: center;
-    width: 70px;
-  } */
 
   .seemoreUpdates {
     display: block;

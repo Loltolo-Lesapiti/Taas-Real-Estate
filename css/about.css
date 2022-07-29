@@ -189,10 +189,9 @@ a {
 }
 
 .featured-blogs hr {
-  width: 20px;
-  background-color: #f55114;
-  padding: 0.5px;
-  margin-top: 5px;
+    width: 100px;
+    border: 1px solid #f55114;
+    margin-top: 5px;
 }
 
 .logo-in-section {
@@ -257,10 +256,9 @@ a {
 }
 
 .partners hr {
-  width: 100px;
-  color: #f55114;
-  padding: 0.8px;
-  margin-top: 5px;
+    width: 100px;
+    border: 1px solid #f55114;
+    margin-top: 5px;
 }
 
 .partner-logos {
@@ -270,9 +268,9 @@ a {
 }
 
 .logoImage {
-  width: 177px;
-  height: 116px;
-  margin: 17px 8px;
+    width: 115px;
+    height: 115px;
+    margin: 15px 47px;
 }
 
 .imageContainer {
