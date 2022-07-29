@@ -22,6 +22,7 @@ a {
 .topNav {
   display: none;
   width: 100%;
+  height: 30px;
 }
 
 /* Header section css */
@@ -42,10 +43,6 @@ a {
 
 .menu_desktop {
   display: none;
-}
-
-.topNav {
-  height: 30px;
 }
 
 .topNav a {
@@ -124,6 +121,13 @@ a {
   z-index: 2;
 }
 
+.copyrightContent h5 {
+  font-size: 16px;
+  margin: 10px;
+  width: 50%;
+  margin-left: 0;
+}
+
 .introduction .content h5 {
   font-weight: 500;
   color: #f55114;
@@ -182,7 +186,6 @@ u {
 .grid {
   display: grid;
   grid-template-columns: auto;
-  margin: 0;
   gap: 10px;
   margin: 0 5%;
 }
@@ -261,13 +264,13 @@ u {
   border: 2px solid #d3d3d3;
 }
 
-hr {
+/* hr {
   width: 100px;
   background: #f55114;
   padding: 0.5px;
   margin-top: 0;
   border: none;
-}
+} */
 
 .update ul :first-child {
   font-size: 32px;
@@ -349,14 +352,12 @@ hr {
 
 .copyright {
   display: flex;
-  flex: row;
   gap: 5%;
   margin: 10px;
   justify-content: center;
 }
 
 .show {
-  display: flex;
   margin-left: 5%;
 }
 
@@ -380,19 +381,12 @@ hr {
   width: 100%;
   margin: 3%;
   height: 40px;
-  background: color #d3d3d3;
+  background: #d3d3d3;
 }
 
 .featured-blogs button:hover {
   background-color: #ec5242;
   color: #ffff;
-}
-
-.copyrightContent h5 {
-  font-size: 16px;
-  margin: 10px;
-  width: 50%;
-  margin-left: 0;
 }
 
 .copyrightContent h6 {
@@ -490,10 +484,10 @@ hr {
     text-align: center;
   }
 
-  ul :last-child {
+  /* ul :last-child {
     align-self: center;
     width: 70px;
-  }
+  } */
 
   .seemoreUpdates {
     display: block;
