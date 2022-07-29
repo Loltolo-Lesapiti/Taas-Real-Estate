@@ -29,7 +29,7 @@ a{
   align-items: center;
   padding: 10px 12px 20px;
   width: 100%;
-  background-image: url("../images/bg1.jpg");
+  background-color: #d3d3d3;
 }
 
 .open {
@@ -55,8 +55,6 @@ a{
   color: #fff;
   
 }
-
-/* ---Formating the mobile-humberger--- */
 .curtain {
   height: 0;
   width: 100%;
@@ -70,8 +68,6 @@ a{
   transition: 0.5s;
   backdrop-filter: blur(8px);
 }
-
-/* ---Positioning the content inside the overlay--- */
 .curtain-content {
   height: 100%;
   display: flex;
@@ -90,8 +86,6 @@ a{
   color: #fff;
   text-decoration: none;
 }
-
-/* ---Position the close button--- */
 .close {
   padding: 8px;
   position: absolute;
@@ -108,19 +102,14 @@ a{
 /* Home section*/
 .introduction{
   padding: 20px 0;
-  background-image: url("../images/bg1.jpg");
+  background-color: #d3d3d3;
   background-size: cover;
-  background-position-x: -312px;
-  background-position-y: 98px;
-  opacity: 0.9;
-  z-index: -1;
 }
 .introduction .content{
   display: flex;
   flex-direction: column;
   gap: 5px;
-  margin: 10% 10%;
-  z-index: 2;
+  padding: 20px;
 }
 .introduction .content h5{
   font-weight: 500;
@@ -145,12 +134,27 @@ a{
   font-weight: 200;
   font-size: 18px;
   margin-top: 0;
+  margin-bottom: 0;
 }
 .introduction .content p{
-  border: 2px solid white;
+  background-color: #ffff;
   width: 100%;
   padding: 10px;
   font-size: 20px;
+}
+.introduction .content span{
+    font-weight: 900;
+    text-align: center;
+    margin-top: 0;
+    color: #f55114;
+}
+.introduction a{
+    color:#f55114;
+    align-self: flex-end;
+    font-size: 18px;
+    font-weight: 900;
+    margin-left: 80%;
+
 }
 
 .featured-blogs h2{
@@ -163,137 +167,55 @@ a{
   margin: 50px;
 }
 .featured-blogs hr{
-  margin-left: 40%;
+    width: 20px;
+    background-color: #f55114;
+    padding: 0.5px;
+    margin-top: 5px;
 }
-u{
-  font-weight: bold;
-  color: red;
- 
+.featured-blogs p{
+    font-size: 18px;
+    font-weight: 400;
+    margin: 15px 2.5%;
+    text-align: center;
 }
-/** Blogs desktop*/
- .grid{
-  display: grid;
-  grid-template-columns: auto;
-  margin:0;
-  gap: 10px;
-  margin: 0 5%;
- }
- .card {
-  display: flex;
-  gap: 20px;
-  flex-direction: row;
+.logo-in-section{
+    margin: 0 20%;
+}
+.logo-in-section img{
+    width: 122px;
+    height: auto;
+}
+.logo-in-section a{ 
+    font-size: 20px;
+    color: #272a31;
+}
+.section-image{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+.imagecont img{
+    width: 400px;
+    height: 200px;
+}
+.imagecont {
+    position: relative;
+  }
+.text-block {
+    position: absolute;
+    bottom: 97px;
+    right: 20px;
+    color: white;
+    padding-right: 111px;
+    opacity: 0.85;
 
-}
-.cardImage {
-  width: 120px;
-  height: auto;
-}
-.cardBody{
-display: flex;
-flex-direction: column;
-gap: 0;
-}
-.cardTitle {
-  font-weight: 600;
-  font-size: 24px;
-  line-height: 28px;
-  
-}
-
-.cardText {
-  font-weight: 400;
-  font-size: 12px;
-  line-height: 20px;
-  margin: 0;
-}
-.author{
-font-weight: 400;
-font-size: 20px;
-font-style: italic;
-line-height: 28px;
-color: #ec5242;
+  }
+  .text-block h4{
+    font-weight: 700;
+    font-size: 18px;
 }
 
-/* Updades mobile*/
-.newsUpdate {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  gap: 5px;
-  padding: 50px 20px;
-  color: #ffff;
-  background: #272a31;
-}
-
-.sectionHeader {
- text-align: center;
-  margin-bottom: 0; 
-}
-.update ul {
-  display: flex;
-  flex-direction: row;
-  align-items: center;
-  justify-content: space-around;
-  width: 100%;
-  margin: 1px;
-  list-style: none;
-  padding: 10px;
-  background: #3c3f46;
-  border: 2px solid #3c3f46;
-}
-
-.update ul:hover {
-  background: #272a31;
-  backdrop-filter: blur(5px);
-  border-radius: 5px;
-  border: 2px solid #d3d3d3;
-}
-hr{
-  width: 100px;
-  background: #f55114;
-  padding: 0.5px;
-  margin-top: 0;
-  border: none;
-  
-}
-
-.update ul :first-child {
-  font-size: 32px;
-  padding: 5px;
-  margin-top: 10px;
-}
-
-.headline {
-  text-align: center;
-  padding: 2px;
-  color: #ec5242;
-}
-
-.seemoreUpdates {
-  display: none;
-}
-
-.updateBtn {
-  font-weight: 600;
-  color: #d3d3d3;
-  font-size: 20px;
-  margin-top: 20px;
-  padding: 20px 40px;
-  background: #ec5242;
-  border: none;
-  text-align: center;
-}
-
-.updateBtn:hover {
-  color: #ec5242;
-  background:#d3d3d3;
-  border: 2px solid #ec5242;
-}
-
-.update ul :last-child{
-  width: 50%;
-  text-align: left;
-}
 /* Our parners*/
 .partners{
   display: flex;
@@ -315,7 +237,6 @@ hr{
   padding: 0.8px;
   margin-top: 5px;
 
-
 }
 .partner-logos{
   display: flex;
@@ -333,24 +254,29 @@ hr{
  .copyright{
   display: flex;
   flex: row;
-  gap: 5%;
+  gap: 10%;
   margin: 10px;
   justify-content: center;
+  background-color: #272a31;
+  color: #ffff;
  }
  .show {
   display: flex;
-  margin-left: 5%;
+  margin-left: 25%;
 }
 .show img{
-  width: 30px;
-  height: 50px;
+    width: 102px;
+    height: 85px;
+    margin-top: 20px;
+    
   
 }
 .show a{
-  font-weight: 500;
-  font-size: 20px;
-  padding-top: 5px;
-  color: #272a31;
+    font-weight: 500;
+    font-size: 20px;
+    padding-top: 30px;
+    color: #ffff;
+    margin-left: 10px;
 
 }
 .hide{
@@ -359,12 +285,15 @@ hr{
 .featured-blogs button{
   width: 100%;
   margin: 3%;
-  height: 40px;
+  height: 30px;
   background: color #d3d3d3;
 }
 .featured-blogs button:hover{
   background-color: #ec5242;
   color: #ffff;
+}
+.seeLess{
+  display: none;
 }
 .copyrightContent h5{
   font-size: 16px;
@@ -424,7 +353,7 @@ hr{
     font-weight: 300;
     font-size: 15px;
     line-height: 20px;
-    color: #282828;
+    color: #404041;
   }
   .topNav{
     display: flex;
@@ -438,108 +367,21 @@ hr{
     margin-right: 50px;
   }
   .introduction .content{
-    width: 50%;
+    gap: 5px;
+    padding: 20px;
+    margin: 0 25%;
+      
   }
-  /* Updates*/
-  .sectionHeader {
-    text-align: center;
-    color: #ffff;
-  }
-  .update-container{
+  .section-image{
     display: flex;
     flex-direction: row;
-    gap: 10px;
-    padding: 10px 0;
-    
-  }
-
-  .update ul {
-    display: flex;
-    flex-direction: column;
-    padding: 2% 2% 10%;
-  }
-
-  ul :first-child {
-    width: 100%;
-    text-align: center;
-  }
-
-  
-  ul :last-child{
-    align-self: center;
-    width: 70px;
-  }
-
-  .seemoreUpdates {
-    display: block;
-    color: #ffff;
-    text-align: center;
-    text-decoration: underline;
-    margin-top: 10px;
-  }
-
-  .seemoreUpdates:hover {
-    color: #ec5242;
-  }
-
-  .newsUpdate {
-    background-color: #272a31;
-    padding: 50px 200px;
-  }
-
-  .updateBtn {
-    display: none;
-  }
-
-  ul :last-child {
-    width: 100%;
-    text-align: center;
-  }
-  /** Blogs desktop*/
-  .featured-blogs hr{
-    margin-left: 45%;
-
-  }
-   .grid{
-    display: grid;
-    grid-template-columns: auto auto;
-    margin: 5% 5%;
+    justify-content: center;
     gap: 20px;
-   }
-   .card {
-    display: flex;
-    gap: 20px;
-    flex-direction: row;
-  }
-  .cardImage {
-    width: 120px;
-    height: auto;
 }
-.cardBody{
-  display: flex;
-  flex-direction: column;
-  gap: 0;
+.featured-blogs p{
+    width: 80%;
+    margin: 15px 15%;
 }
-.cardTitle {
-    font-weight: 600;
-    font-size: 24px;
-    line-height: 28px; 
-}
-
-.cardText {
-    font-weight: 400;
-    font-size: 12px;
-    line-height: 20px;
-    margin: 0;
-}
-.author{
-  font-weight: 400;
-  font-size: 20px;
-  font-style: italic;
-  line-height: 28px;
-  color: #ec5242;
-}
-
   /* Patners*/
   .partner-logos{
     display: flex;
@@ -556,4 +398,8 @@ hr{
   .featured-blogs button{
     display: none;
   }
+  .show {
+    display: flex;
+    margin-left: 25%;
+}
 }
