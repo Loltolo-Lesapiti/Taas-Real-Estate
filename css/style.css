@@ -453,7 +453,6 @@ a {
 
   .introduction .content {
     display: flex;
-    flex: column;
     margin: 3% 25%;
     gap: 10px;
   }
@@ -466,6 +465,7 @@ a {
 
   .update-container {
     display: flex;
+    
     flex-direction: row;
     gap: 10px;
     padding: 10px 0;
