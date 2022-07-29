@@ -1,9 +1,5 @@
 https://drive.google.com/file/d/12lGLaslYanPiUrMC63FQ3_QKaRoJ3_mG/view?usp=sharing
 
-#### Original design idea by **Cindy Shin in Behance**, in association with the Creative Commons [license](./MIT.md) of the design.
-
-<br />
-
 > For the final step in completeing Microverse module one capstone project,
 
 # Taas Homes

@@ -138,8 +138,13 @@ a {
   font-weight: 900;
   font-size: 50px;
   line-height: 4rem;
-  color: rgb(128, 5, 5);
   text-transform: uppercase;
+  background: linear-gradient(to left,
+  #f55114,
+  rgb(43, 4, 4),
+  #f55114);
+-webkit-background-clip: text;
+color: transparent;
 }
 
 .content h2 {
