@@ -1,7 +1,3 @@
-https://drive.google.com/file/d/12lGLaslYanPiUrMC63FQ3_QKaRoJ3_mG/view?usp=sharing
-
-> For the final step in completeing Microverse module one capstone project,
-
 # Taas Homes
 
 > Taas Homes is an imaginary real estate company. Taas homes is located in Nairobi Kenya and it deals with house purchese. The imaginary company has variety of options for its customers of depending on their needs and the financial capabibity. Taas homes also partnered with financial institutions to facilitate morgage facilities to its customers.
