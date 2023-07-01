@@ -19,39 +19,39 @@ links.forEach((link) => {
 });
 
 const houses = [{
-  image: 'images/h1.JPG',
+  image: './images/h1.jpg',
   title: 'Luxury',
   discription: 'We are buiding luzury houses in Malindi. The first market release will be on as soom as Novermber 2023.',
   author: 'Petro Lesapiti',
 
 },
 {
-  image: 'images/h2.JPG',
+  image: './images/h2.jpg',
   title: 'Live',
   discription: 'We are buiding luzury houses in Malindi. The first market release will be on as soom as Novermber 2023.',
   author: 'Petro Lesapiti',
 },
 {
-  image: 'images/h3.JPG',
+  image: './images/h3.jpg',
   title: 'Parking',
   discription: 'We have ample parking space in all our highend properties in Keleleshwa, Kilimani and Eastlands.',
   author: 'Petro Lesapiti',
 
 },
 {
-  image: 'images/h1.JPG',
+  image: './images/h1.jpg',
   title: 'Money',
   discription: 'Partnered with all major banks for our customers who are looking to secure morgage facilities.',
   author: 'Petro Lesapiti',
 },
 {
-  image: 'images/h2.JPG',
+  image: './images/h2.jpg',
   title: 'Stress free',
   discription: 'We are buiding luzury houses in Malindi. The first market release will be on as soom as Novermber 2023.',
   author: 'Petro Lesapiti',
 },
 {
-  image: 'images/h3.JPG',
+  image: './images/h3.jpg',
   title: 'Family',
   discription: 'We have ample parking space in all our highend properties in Keleleshwa, Kilimani and Eastlands.',
   author: 'Petro Lesapiti',

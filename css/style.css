@@ -151,6 +151,7 @@ a {
       #f55114
     );
   -webkit-background-clip: text;
+  background-clip: text;
   color: transparent;
 }
 
